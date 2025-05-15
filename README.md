@@ -1,4 +1,4 @@
-# Spotify Liked Songs Scraper
+# Spotify Rake
 
 A Python script that pulls all your Spotify "Liked Songs" and saves them to a CSV file with details like title, artist, album, duration, and popularity. 
 Uses the Spotipy library and Spotify API.
